@@ -1,3 +1,7 @@
+
+
+                                    Red Wine Quality
+
 o Performed data cleaning and exploratory data analysis to get insight of each variable of vine dataset.
 
 o Checked for all the assumptions for the model and transformed some variables to match required assumptions.
